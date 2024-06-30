@@ -3,7 +3,8 @@
   <li>click on code option </li>
   <li>download zip </li>
 </ol>
-![Capture122](https://github.com/PradipGhritlahre/digitalclockinexcel/assets/88144376/a408eba4-3987-4982-9048-2cb526839c5b)
+![Capture122](https://github.com/PradipGhritlahre/digitalclockinexcel/assets/88144376/4c11ff54-bbcd-4774-b6d6-2bc2f9995b62)
+
 
 <p>Second method download excel file on github:</p>
 <ol>

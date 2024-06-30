@@ -16,3 +16,5 @@
 
 
 ![Capture144](https://github.com/PradipGhritlahre/digitalclockinexcel/assets/88144376/ef07be23-9a77-47f0-aa84-4cfacc3a31b8)
+
+<p>Make sure you can not use this file on mobile , you can download zip file </p>
